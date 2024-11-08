@@ -1,8 +1,10 @@
 # deauth_attack_script
 No description
 How to run?
-Make the Script Executable 
+
+Make the Script Executable:
 * chmod +x deauth.sh 
-Run Script
+
+Run Script:
 * sudo Airmagnet2 wlan0(interface name).
 GOODLUCK!!!
